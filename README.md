@@ -1,8 +1,6 @@
 <h1>Microsoft Azure Sentinal SEIM Honeypot Lab</h1>
 
 
- ### [YouTube Demonstration (@16:20)](https://youtu.be/RoZeVbbZ0o0?t=980)
-
 
 <h2>Description</h2>
 <b>This lab was conducted to set up a Honeypot, attracting attackers for data collection. We utilized Microsoft Azure Sentinal (SEIM) to create a Virtual Machine as the bait. The Powershell script in this repository extracts Windows Event Log data for failed RDP attacks and uses a third-party API to gather attacker location details. This information is then visualized on a map to show potential attacker locations.
